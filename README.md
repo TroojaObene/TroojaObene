@@ -4,7 +4,7 @@
 ## I'm a Minecraft Datapack Developer!
 - ⛏ I'm currently working in Eluant Studio!
 - ⚒  I'm learning Mcfunction!
-- 📫 How to reach me ```Discord: TroojaObene#0001```
+- 📫 How to reach me ```Discord: TroojaObene#3053```
 
 
 ![TroojaObene's GitHub stats](https://github-readme-stats.vercel.app/api?username=TroojaObene&count_private=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=2d333b)
